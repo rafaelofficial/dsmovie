@@ -31,11 +31,11 @@ function Form() {
                         </select>
                     </div>
                     <div className="dsmovie-form-btn-container">
-                        <button type="submit" className="btn btn-primary mb-3 dsmovie-btn">Salvar</button>
+                        <button type="submit" className="btn mb-3 dsmovie-btn">Salvar</button>
                     </div>
                 </form >
                 <Link to="/">
-                    <button className="btn btn-primary mb-3 dsmovie-btn">Cancelar</button>
+                    <button className="btn mb-3 dsmovie-btn">Cancelar</button>
                 </Link>
             </div >
         </div >
