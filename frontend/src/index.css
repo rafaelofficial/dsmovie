@@ -13,6 +13,11 @@ html, body {
     background-color: #e8e8e8;
 }
 
+h3 {
+  font-size: 12px;
+  font-weight: bolder;
+}
+
 a, a:hover {
   text-decoration: none;
   color: unset;
